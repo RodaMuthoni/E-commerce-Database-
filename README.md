@@ -1,6 +1,6 @@
 # 🛍️ E-commerce Database Design
 
-![ERD Diagram](https://raw.githubusercontent.com/your-username/your-repo/main/ERD.png)  
+![ERD Diagram](https://github.com/RodaMuthoni/E-commerce-Database-.git/ERD.svg)  
 <sub>*(Click to view full image of the Entity-Relationship Diagram)*</sub>
 
 ## 📚 Description
@@ -46,7 +46,7 @@ The final output includes:
 
 The following diagram visualizes all tables and how they are related via primary and foreign keys:
 
-📎 [Click to view ERD diagram](https://raw.githubusercontent.com/your-username/your-repo/main/ERD.png)
+📎 [Click to view ERD diagram](https://github.com/RodaMuthoni/E-commerce-Database-.git/ERD.svg)
 
 ---
 
@@ -74,5 +74,5 @@ To get started with this project locally, follow the steps below:
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git https://github.com/RodaMuthoni/E-commerce-Database-.git
+cd E-commerce-Database-
