@@ -1,6 +1,6 @@
 # 🛍️ E-commerce Database Design
 
-![ERD Diagram](https://github.com/RodaMuthoni/E-commerce-Database-.git/ERD.svg)  
+![ERD Diagram](https://github.com/RodaMuthoni/E-commerce-Database-/ERD.svg)  
 <sub>*(Click to view full image of the Entity-Relationship Diagram)*</sub>
 
 ## 📚 Description
@@ -46,7 +46,7 @@ The final output includes:
 
 The following diagram visualizes all tables and how they are related via primary and foreign keys:
 
-📎 [Click to view ERD diagram](https://github.com/RodaMuthoni/E-commerce-Database-.git/ERD.svg)
+📎 [Click to view ERD diagram](https://github.com/RodaMuthoni/E-commerce-Database-/ERD.svg)
 
 ---
 
